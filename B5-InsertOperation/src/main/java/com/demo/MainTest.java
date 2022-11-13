@@ -58,6 +58,7 @@ public class MainTest {
 			System.out.println("name>>" + s.getName());
 			System.out.println("city>>" + s.getCity());
 			System.out.println("pincode>>" + s.getPincode());
+			System.out.println("Hello..");
 		}
 
 	}
