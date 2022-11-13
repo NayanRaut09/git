@@ -59,6 +59,8 @@ public class MainTest {
 			System.out.println("city>>" + s.getCity());
 			System.out.println("pincode>>" + s.getPincode());
 			System.out.println("Hello..");
+			System.out.println("Hey..");
+			
 		}
 
 	}
